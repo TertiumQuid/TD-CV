@@ -15,5 +15,5 @@ X-SOCIALPROFILE;type=facebook:https://www.facebook.com/tertiumquid
 X-SOCIALPROFILE;type=linkedin:linkedin.com/in/dunntravis
 X-SKYPE:travisdunn
 X-SKYPE-USERNAME:travisdunn
-PHOTO;PNG:https://www.earlydoc.com/assets/team/travis.png
+PHOTO;VALUE=URL;TYPE=PNG:https://www.earlydoc.com/assets/team/travis.png
 END:VCARD

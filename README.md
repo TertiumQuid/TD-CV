@@ -1,4 +1,4 @@
 TD-CV
 =====
 
-Single-page responsive HTML5 website template for resume/cv
+Single-page responsive HTML5 template for resume/cv websites.
