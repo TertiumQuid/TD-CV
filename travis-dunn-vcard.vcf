@@ -1,0 +1,19 @@
+BEGIN:VCARD
+N:Dunn;Travis;;Software Architect / Analyst;
+BDAY:19800101
+GENDER:M
+LANG:en-US
+CATEGORIES:software,developer,consultant,analyst,programmer,technology
+ADR;INTL;PARCEL;WORK:;;;Amsterdam;;1012MC;Netherlands
+ADR;DOM;PARCEL;HOME:;;;Amsterdam;;1012MC;Netherlands
+EMAIL;INTERNET:dunn.travis@gmail.com
+TEL;CELL:0639138235
+TZ:+0100
+X-SOCIALPROFILE;type=twitter:http://twitter.com/DaseinFiasco
+X-TWITTER:DaseinFiasco
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/tertiumquid
+X-SOCIALPROFILE;type=linkedin:linkedin.com/in/dunntravis
+X-SKYPE:travisdunn
+X-SKYPE-USERNAME:travisdunn
+PHOTO;PNG:https://www.earlydoc.com/assets/team/travis.png
+END:VCARD
